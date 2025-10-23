@@ -6,7 +6,7 @@ I’m a **Certified Software Development Engineer** with **5+ years of experienc
 
 💡 Passionate about integrating **AI/ML solutions**, building **local LLM systems** with **Ollama** and **LangChain**, and delivering **end-to-end full-stack applications**.  
 
-Currently working as **Technical Team Lead at Algobiz Innovations**, where I lead automation and data-driven software projects that enhance business efficiency and user experience.  
+Currently working as **Technical Team Lead**, where I lead automation and data-driven software projects that enhance business efficiency and user experience.  
 
 ---
 
